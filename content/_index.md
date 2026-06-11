@@ -28,6 +28,7 @@ sections:
       filters:
         folders:
           - publication
+        featured_only: true
       count: 20
       sort_by: 'Date'
       sort_order: 'desc'

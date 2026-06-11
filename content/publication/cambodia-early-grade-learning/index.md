@@ -10,4 +10,5 @@ authors:
 publication: "*VVOB Education for Development*"
 publication_types: ["report"]
 url_pdf: https://www.vvob.org/our-work/research-resources/process-evaluation-of-cambodias-early-grade-learning-program-recommendations-for-program-improvement
+featured: true
 ---

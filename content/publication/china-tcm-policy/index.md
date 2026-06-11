@@ -9,4 +9,5 @@ publication: "*RIS Book Report — Scoping Paper No. 1*"
 publication_types: ["book"]
 abstract: "Scoping paper analysing China's domestic and international policy initiatives to promote Traditional Chinese Medicine, with implications for India's traditional medicine sector."
 url_pdf: https://fitm.ris.org.in/sites/fitm.ris.org.in/files/Publication/Scooping%20Paper%20No%201.pdf
+featured: true
 ---
