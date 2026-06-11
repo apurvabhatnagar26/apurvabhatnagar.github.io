@@ -2,115 +2,214 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Apurva Bhatnagar, PhD
+  given: Apurva
+  family: Bhatnagar
 postnominals:
   - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+role: Development Economist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am a development economist with eight years of experience evaluating and
+  improving health, nutrition, and social development programs across South
+  Asia, Southeast Asia, and Africa.
+
+  Much of my career has been spent in direct partnership with national and
+  provincial governments, helping leadership teams understand how their
+  programs are performing and identifying exactly where to focus their
+  resources for maximum impact. Through these collaborations, my research has
+  successfully transitioned into real-world policy, such as, shaping
+  government guidelines in Delhi, informing critical budget priorities in
+  Uttar Pradesh, and influencing comprehensive program designs in the
+  Philippines and Cambodia.
+
+  Feel free to browse my recent work below, or reach out directly to discuss potential collaborations and share ideas.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: IDinsight
+    url: https://www.idinsight.org
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+    url: mailto:apurvabhatnagar26@gmail.com
+    label: Email
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/apurvabhatnagar
+  - icon: academicons/cv
+    url: /uploads/CV_Apurva_Bhatnagar.pdf
+    label: Download CV
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Impact, process, and program evaluation
+  - Health and nutrition policy
+  - Economic mobility and inequality
+  - Labour markets
+  - Safe and beneficial AI development
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD, Economics
+    institution: Jawaharlal Nehru University
+    start: 2019-09-01
+    end: 2025-06-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Thesis on income mobility and inequality in India.
+  - degree: MPhil, Economics
+    institution: Jawaharlal Nehru University
+    start: 2017-09-01
+    end: 2019-06-30
+  - degree: MA, Development Economics
+    institution: South Asian University
+    start: 2015-09-01
+    end: 2017-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Development Economist / Technical Manager
+    org: IDinsight
+    start: 2021-04-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Lead technical work on impact and process evaluations across health,
+      nutrition, education, financial inclusion, and social protection
+      programmes in India, the Philippines, Cambodia, and Uganda.
+
+      **Select projects:**
+
+      #### Bill & Melinda Gates Foundation — IFS India Impact Measurement Initiative
+      * Project manager
+
+      I am managing a pan-India initiative measuring the Gates
+      Foundation's Inclusive Financial Systems strategy. The project
+      designed a nationally representative baseline survey covering 23
+      states and union territories, 9,743 households, and 17,357
+      individuals, with 250+ indicators spanning digital payments (UPI,
+      AePS), savings, credit, insurance, pensions, and women's economic
+      empowerment. We deployed voter-roll and GPS pin-drop sampling at
+      national scale, generating state- and subgroup-level evidence for
+      Foundation decision-making. I work on funder
+      relationship, team management, budget, field operations, technical design,
+      final analysis and dissemination.
+
+      *Focus: Financial inclusion · Survey design · Project management*
+
+      #### Government of Uttar Pradesh — State Scheme and Budget Review
+      * Technical lead 
+
+      In this project, we partner with senior UP officials to assess how well welfare schemes
+      reach intended beneficiaries and whether budget allocations align
+      with the state's growth priorities. For example, for a conditional cash transfer
+      scheme for girls, we combined departmental administrative data, the
+      state's Family ID database, rapid phone surveys, and targeted field
+      visits to diagnose why coverage was low. Our recommendations could
+      raise coverage from ~500,000 girls toward 1.5 million. We also
+      support the state's Evaluation Division to institutionalise 
+      scheme evaluations. In this project, I work as a sole economist and technical reviewer of all
+      analysis produced by associates on the engagement.
+
+      *Focus: Government advisory · Public finance · Scheme evaluation*
+
+      #### Philippines Department of Health — Health Promotion and Literacy Study
+      * Technical support and data-quality and analysis lead
+
+      This is a nationally representative panel study with DOH's Health Promotion Bureau,
+      tracking health literacy and KAP across seven priority pillars in
+      all 17 regions of the Philippines using grid-based sampling. Our recommendations
+      helped DOH to simplify its vaccination schedule, make changes to its policies on 
+      vaping and HIV prevention. 
+      We also led a dedicated Mental Health Literacy assessment (~4,600 respondents) using a
+      vignette-based instrument aligned to the WHO mhGAP conditions,
+      plus qualitative studies on the HIV care continuum and youth
+      vaping in Metro Manila. I owned the data-quality systems, cleaning, analysis, and
+      visualisation pipelines for four rounds of this panel study.
+
+      *Focus: Panel survey · Data quality · Analysis pipelines*
+
+      #### StrongMinds Uganda — Randomised Evaluation of a Group Mental Health Programme
+      * Technical support, RCT design
+
+      We are working on a village-level cluster RCT of
+      StrongMinds' six-week, lay-led Group Interpersonal Psychotherapy
+      programme for depression, running across ~100 villages in Luuka
+      and Buikwe districts (1,112 PHQ-9-screened participants) against
+      an Enhanced Treatment-as-Usual control. I am working on the pre-analysis
+      plan, randomisation, power calculations, outcome measurement,
+      instrument design, survey protocol, and IRB ethics submission.
+
+      *Focus: RCT design · Power calculations · Research ethics*
+
+      #### Portfolio Oversight
+      * Cross-portfolio technical reviewer and standards owner
+
+      Analytical oversight across IDinsight's India health, nutrition,
+      and agriculture portfolio — the technical review point for
+      analysis, data-quality decisions, and reporting, ensuring
+      consistent rigour across projects. Established organisation-wide
+      R coding standards and authored IDinsight's institutional
+      guidelines on the responsible use of AI tools for qualitative
+      research, covering Dedoose, MaxQDA, Atlas.ti, and
+      large-language-model workflows. Mentor associates and managers
+      to build their technical skills.
+
+      *Focus: Technical review · Coding standards · AI for qualitative research*
+    tags:
+      - Impact Evaluation
+      - Financial Inclusion
+      - Government Advisory
+      - India
+      - Philippines
+      - Uganda
 
 skills:
-  - name: Technical Skills
+  - name: Research & Evaluation
     items:
-      - label: Python
+      - label: Randomised Controlled Trials
         level: 5
-      - label: Machine Learning
+      - label: Process Evaluations
         level: 5
-      - label: Cloud Computing
+      - label: Survey Design & Sampling
+        level: 5
+      - label: Power Calculations
+        level: 5
+      - label: Mixed-Methods Research
         level: 4
-  - name: Research & Communication
+  - name: Data Analysis
     items:
-      - label: Academic Writing
+      - label: Stata
         level: 5
-      - label: Conference Presentations
+      - label: R
+        level: 5
+      - label: Data Visualisation
         level: 4
-      - label: Grant Proposals
+  - name: India & Government Advisory
+    items:
+      - label: State Government Partnerships
+        level: 5
+      - label: Indian Administrative Data
+        level: 5
+      - label: Public Finance Analysis
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Future of AI
+    awarder: BlueDot Impact
+    date: "2025-11-01"
+    summary: Completed BlueDot Impact's Future of AI course on the trajectory, risks, and governance of advanced AI systems.
+    icon: hero/academic-cap
+    certificate_url: /uploads/certificates/future-of-ai-bluedot.pdf
+  - title: Research Ethics Certification
+    awarder: CITI Program
+    date: "2026-03-01"
+    summary: Human subjects research ethics certification.
+    icon: hero/shield-check
+    certificate_url: /uploads/certificates/ethics-certificate.pdf
+  - title: Ethics Training (Prior Certification)
+    awarder: CITI Program
+    date: "2024-03-01"
+    summary: Earlier human subjects research ethics training (now superseded).
+    icon: hero/shield-check
+    certificate_url: /uploads/certificates/ethics-training-2024.pdf
