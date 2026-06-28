@@ -57,86 +57,42 @@ experience:
     org: IDinsight
     start: 2021-04-01
     summary: |
-      Lead technical work on impact and process evaluations across health,
-      nutrition, education, financial inclusion, and social protection
-      programmes in India, the Philippines, Cambodia, and Uganda.
+      I build and manage large-scale evaluations that change what governments and funders actually do. I run impact and process evaluations across financial inclusion, health, nutrition, education, and social protection in India, the Philippines, Uganda, and Cambodia, acting as the technical reviewer on study design, data quality, analysis, and reporting, and managing full delivery on a pan-India financial inclusion initiative for the Gates Foundation. My work has been adopted as state guidelines in Delhi, shaped scheme and budget decisions in Uttar Pradesh, and informed national health policy in the Philippines.
 
       **Select projects:**
 
-      #### Bill & Melinda Gates Foundation — IFS India Impact Measurement Initiative
+      #### Gates Foundation: IFS India Impact Measurement Initiative
       * Project manager
 
-      I am managing a pan-India initiative measuring the Gates
-      Foundation's Inclusive Financial Systems strategy. The project
-      designed a nationally representative baseline survey covering 23
-      states and union territories, 9,743 households, and 17,357
-      individuals, with 250+ indicators spanning digital payments (UPI,
-      AePS), savings, credit, insurance, pensions, and women's economic
-      empowerment. We deployed voter-roll and GPS pin-drop sampling at
-      national scale, generating state- and subgroup-level evidence for
-      Foundation decision-making. I work on funder
-      relationship, team management, budget, field operations, technical design,
-      final analysis and dissemination.
+      I am building and managing the pan-India team designing and delivering a nationally representative financial inclusion survey for the Gates Foundation's Inclusive Financial Systems (IFS) strategy. We first mapped India's financial inclusion data ecosystem (79 studies and 36 datasets) to pin down the indicators that matter most, then designed and delivered a baseline covering 23 states and union territories, 9,743 households, 17,357 individuals, and 250+ indicators across bank accounts, digital payments (UPI and AePS), savings, credit, insurance, pensions, grievance redressal, and women's economic empowerment. To reach a representative sample at this scale we deployed two sampling methods at national scale for the first time (voter-roll and GPS pin-drop), backed by layered field checks and desk-based high-frequency checks. The evidence shows the Foundation where to double down on its India IFS strategy, where to investigate further, and where to step back.
 
       *Focus: Financial inclusion · Survey design · Project management*
 
-      #### Government of Uttar Pradesh — State Scheme and Budget Review
-      * Technical lead 
+      #### Government of Uttar Pradesh: State Scheme and Budget Review
+      * Sole technical reviewer
 
-      In this project, we partner with senior UP officials to assess how well welfare schemes
-      reach intended beneficiaries and whether budget allocations align
-      with the state's growth priorities. For example, for a conditional cash transfer
-      scheme for girls, we combined departmental administrative data, the
-      state's Family ID database, rapid phone surveys, and targeted field
-      visits to diagnose why coverage was low. Our recommendations could
-      raise coverage from ~500,000 girls toward 1.5 million. We also
-      support the state's Evaluation Division to institutionalise 
-      scheme evaluations. In this project, I work as a sole economist and technical reviewer of all
-      analysis produced by associates on the engagement.
+      Uttar Pradesh is India's largest state, with welfare schemes that reach tens of millions of people and a stated ambition to grow into a one trillion dollar economy. We partner with senior UP officials to assess how well schemes reach their intended beneficiaries and whether budget allocations align with the state's growth priorities. For a conditional cash transfer scheme for girls, for example, we combined departmental administrative data, the state's Family ID database, rapid phone surveys, targeted field visits, and a literature review to diagnose why coverage was low. Recommendations could raise coverage from roughly 15% of eligible girls (about 500,000) toward 1.5 million, extending benefits to around a million more. In parallel we analysed public spending across departments and supported the state's Evaluation Division to institutionalise a government standard operating procedure for scheme evaluations.
 
       *Focus: Government advisory · Public finance · Scheme evaluation*
 
-      #### Philippines Department of Health — Health Promotion and Literacy Study
-      * Technical support and data-quality and analysis lead
+      #### Philippines Department of Health: Health Promotion and Literacy Study
+      * Data-quality and analysis lead
 
-      This is a nationally representative panel study with DOH's Health Promotion Bureau,
-      tracking health literacy and KAP across seven priority pillars in
-      all 17 regions of the Philippines using grid-based sampling. Our recommendations
-      helped DOH to simplify its vaccination schedule, make changes to its policies on 
-      vaping and HIV prevention. 
-      We also led a dedicated Mental Health Literacy assessment (~4,600 respondents) using a
-      vignette-based instrument aligned to the WHO mhGAP conditions,
-      plus qualitative studies on the HIV care continuum and youth
-      vaping in Metro Manila. I owned the data-quality systems, cleaning, analysis, and
-      visualisation pipelines for four rounds of this panel study.
+      A five-year, twice-yearly nationally representative panel study run with the Philippine DOH's Health Promotion Bureau, measuring health literacy and KAP across the Department's seven priority pillars (diet and physical activity, mental health, substance use, vaccines and immunisation, sexual and reproductive health, violence and injury prevention, and environmental health) using grid-based sampling across all 17 regions. After we found only one in five Filipinos could understand the official vaccination schedule, the Department began simplifying it. The study also produced a dedicated Mental Health Literacy assessment (~4,600 respondents) using a vignette-based instrument aligned to the WHO mhGAP conditions, plus qualitative studies on the HIV care continuum and youth vaping in Metro Manila. Acting on this evidence, the Department has moved to ban vapes outright, strengthened HIV-continuum support, sharpened its focus on mental health interventions, and increased investment in Barangay Health Workers.
 
       *Focus: Panel survey · Data quality · Analysis pipelines*
 
-      #### StrongMinds Uganda — Randomised Evaluation of a Group Mental Health Programme
-      * Technical support, RCT design
+      #### StrongMinds Uganda: Randomised Evaluation of a Group Mental Health Programme
+      * Technical lead, RCT design
 
-      We are working on a village-level cluster RCT of
-      StrongMinds' six-week, lay-led Group Interpersonal Psychotherapy
-      programme for depression, running across ~100 villages in Luuka
-      and Buikwe districts (1,112 PHQ-9-screened participants) against
-      an Enhanced Treatment-as-Usual control. I am working on the pre-analysis
-      plan, randomisation, power calculations, outcome measurement,
-      instrument design, survey protocol, and IRB ethics submission.
+      StrongMinds delivers a six-week, lay-led Group Interpersonal Psychotherapy programme that treats depression in low-income communities. To scale through government and NGO partnerships and unlock large-scale funding, StrongMinds needs rigorous, independent evidence that the six-week model works and is cost-effective. We are running a village-level cluster RCT in two Ugandan districts, Luuka and Buikwe, across ~100 villages and about 1,112 participants screened in on the PHQ-9, comparing the programme against an Enhanced Treatment-as-Usual control. The primary outcome is depression severity; secondaries span anxiety, day-to-day functioning, subjective wellbeing, social support, and economic measures such as labour supply and income. Beyond StrongMinds' own scaling decisions, the findings will directly inform the moral-weights and cost-effectiveness work of GiveWell and the Happier Lives Institute on the value of group interpersonal therapy.
 
       *Focus: RCT design · Power calculations · Research ethics*
 
       #### Portfolio Oversight
       * Cross-portfolio technical reviewer and standards owner
 
-      Analytical oversight across IDinsight's India health, nutrition,
-      and agriculture portfolio — the technical review point for
-      analysis, data-quality decisions, and reporting, ensuring
-      consistent rigour across projects. Established organisation-wide
-      R coding standards and authored IDinsight's institutional
-      guidelines on the responsible use of AI tools for qualitative
-      research, covering Dedoose, MaxQDA, Atlas.ti, and
-      large-language-model workflows. Mentor associates and managers
-      to build their technical skills.
+      I provide analytical oversight across IDinsight's India health, nutrition, and agriculture portfolio, the technical review point of contact on analysis, data-quality decisions, and reporting, so that work across multiple projects meets a consistent standard of rigour. I established organisation-wide R coding standards and authored IDinsight's institutional guidelines on the responsible use of AI tools for qualitative research, covering Dedoose, MaxQDA, Atlas.ti, and large-language-model workflows. I also mentor associates and managers to build their technical skills.
 
       *Focus: Technical review · Coding standards · AI for qualitative research*
     tags:
